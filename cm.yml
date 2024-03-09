@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: my-cm
+data:
+  hostname: "my-server"
+  aws_acc_no: "161324876rgwed"
